@@ -1,0 +1,34 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: url('OUTROCEU.gif') repeat;
+}
+
+p {
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 35px;
+    color: rgb(255, 230, 0);
+}
+
+.game-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+#bat {
+    position: absolute;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+#score {
+   
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 24px;
+    color: rgb(255, 230, 0);
+   
+}
